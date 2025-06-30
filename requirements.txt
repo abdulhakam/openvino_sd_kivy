@@ -1,4 +1,3 @@
-diffusers==0.27.2
-kivy==2.3.0
-kivymd==1.2.0
-optimum==1.19.1
+openvino-runtime==2024.6.0
+Pillow
+kivy
